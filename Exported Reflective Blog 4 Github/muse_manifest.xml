@@ -1,0 +1,104 @@
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="testvers.html" resolutions="1x" timestamp="1514251600018">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="3864173470" ref="index"/>
+    <file name="nomq_index.css" crc="454980798" ref="index"/>
+    <file name="website-design.css" crc="456919671" ref="website-design"/>
+    <file name="nomq_website-design.css" crc="4262385423" ref="website-design"/>
+    <file name="idd.css" crc="4065112360" ref="idd"/>
+    <file name="nomq_idd.css" crc="91451212" ref="idd"/>
+    <file name="fmp.css" crc="122303711" ref="fmp"/>
+    <file name="nomq_fmp.css" crc="3876026862" ref="fmp"/>
+    <file name="motion-graphics.css" crc="4114501085" ref="motion-graphics"/>
+    <file name="nomq_motion-graphics.css" crc="3806577863" ref="motion-graphics"/>
+  </folder>
+  <folder name="assets">
+    <file name="idd-background.mp4" crc="4144471895" seo="true" mt="1514003391000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:fmp:idd:motion-graphics:website-design"/>
+    <file name="museutils.js" crc="3803043152" ref="index:fmp:idd:motion-graphics:website-design"/>
+    <file name="whatinput.js" crc="86476730" ref="index:fmp:idd:motion-graphics:website-design"/>
+    <file name="museconfig.js" crc="4153641093" ref="index:fmp:idd:motion-graphics:website-design"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index:idd:motion-graphics"/>
+    <file name="jquery.museresponsive.js" crc="3955820958" ref="index:fmp:idd:motion-graphics:website-design"/>
+    <file name="require.js" crc="4157109226" ref="index:fmp:idd:motion-graphics:website-design"/>
+    <file name="jquery.watch.js" crc="99325471" ref="idd:motion-graphics"/>
+  </folder>
+  <folder name="images">
+    <file name="vhs13451_1.gif" crc="134742979" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="about-about.png" crc="286242510" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="about-icon-triangle.png" crc="4093218656" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="untitled-1-fmp.png" crc="499010942" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="untitled-1-icon-triangle.png" crc="59242247" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="untitled-1-idd.png" crc="372757375" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="untitled-1-icon-triangle2.png" crc="3930771609" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="about-u267-fr.png" crc="3809808937" ref="index"/>
+    <file name="about-u267-r-fr.png" crc="4260426400" ref="index"/>
+    <file name="about-u267-fr2.png" crc="3759285670" ref="index"/>
+    <file name="about-u267-r-fr2.png" crc="4128970251" ref="index"/>
+    <file name="untitled-1-u294-fr.png" crc="3784719805" ref="index"/>
+    <file name="untitled-1-u294-r-fr.png" crc="4196679735" ref="index"/>
+    <file name="untitled-1-u327-fr.png" crc="4284560878" ref="index"/>
+    <file name="untitled-1-u327-r-fr.png" crc="281692082" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:fmp:idd:motion-graphics:website-design"/>
+    <file name="idd background.gif" crc="306339570" ref="idd">
+      <caption webpage="idd" alt=""/>
+    </file>
+    <file name="motion graphics-normal.png" crc="4244192295" ref="idd">
+      <caption webpage="idd" alt=""/>
+    </file>
+    <file name="motion graphics-active.png" crc="3845594908" ref="idd">
+      <caption webpage="idd" alt=""/>
+    </file>
+    <file name="web design-normal.png" crc="49805853" ref="idd">
+      <caption webpage="idd" alt=""/>
+    </file>
+    <file name="web design-active.png" crc="316395711" ref="idd">
+      <caption webpage="idd" alt=""/>
+    </file>
+    <file name="u807-4.png" crc="3772199850" ref="motion-graphics"/>
+    <file name="u1371-4.png" crc="3882889926" ref="motion-graphics"/>
+    <file name="images.jpg" crc="274256316" ref="motion-graphics">
+      <caption webpage="motion-graphics" alt=""/>
+    </file>
+    <file name="giphy.gif" crc="4063813841" ref="motion-graphics">
+      <caption webpage="motion-graphics" alt=""/>
+    </file>
+    <file name="comp 1.gif" crc="4002037124" ref="motion-graphics">
+      <caption webpage="motion-graphics" alt=""/>
+    </file>
+    <file name="u807-42.png" crc="3772199850" ref="motion-graphics"/>
+    <file name="u1371-42.png" crc="3882889926" ref="motion-graphics"/>
+    <file name="u807-43.png" crc="3764038186" ref="motion-graphics"/>
+    <file name="u1371-43.png" crc="3948136523" ref="motion-graphics"/>
+    <file name="u807-44.png" crc="3928815028" ref="motion-graphics"/>
+    <file name="u1371-44.png" crc="4219555571" ref="motion-graphics"/>
+    <file name="u807-45.png" crc="3991521948" ref="motion-graphics"/>
+    <file name="u1371-45.png" crc="3913774465" ref="motion-graphics"/>
+    <file name="u823-4.png" crc="3880697049" ref="website-design"/>
+    <file name="u823-42.png" crc="3791427841" ref="website-design"/>
+    <file name="u823-43.png" crc="303436199" ref="website-design"/>
+    <file name="u823-44.png" crc="3978917516" ref="website-design"/>
+  </folder>
+  <file name="index.html" crc="471006375" seo="true" mt="1514251515033" redirect="true"/>
+  <file name="fmp.html" crc="275913507" seo="true" mt="1514249765994" redirect="false"/>
+  <file name="idd.html" crc="408228126" seo="true" mt="1514249765994" redirect="true"/>
+  <file name="motion-graphics.html" crc="4216864050" seo="true" mt="1514250244619" redirect="true"/>
+  <file name="website-design.html" crc="415622125" seo="true" mt="1514249765994" redirect="true"/>
+</manifest>
